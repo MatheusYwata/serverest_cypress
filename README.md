@@ -128,6 +128,6 @@ O usuário necessário para login é criado automaticamente via API antes da exe
 
 ## Autor
 
-Automação desenvolvida por Nereu Nogueira para fins de avaliação técnica, aplicando **boas práticas de QA e E2E Testing com Cypress**.
+Automação desenvolvida por Matheus Ywata para fins de avaliação técnica, aplicando **boas práticas de QA e E2E Testing com Cypress**.
 
 ---
